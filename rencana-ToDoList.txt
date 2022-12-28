@@ -1,6 +1,8 @@
 rencana to do list resolusi 2023  :
 1. Setiap pukul 7 buka YT tutorial C
   *pakai YT
+   *belajar C
   *Check
 2. Implementasikan setiap line code kalo engga paham di simulator thinkercad / lainnya
 3. Skripsi yang bisa dibuat
+4. Hidup Sehat
