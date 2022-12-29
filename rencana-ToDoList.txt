@@ -4,6 +4,7 @@ rencana to do list resolusi 2023  :
    *belajar C
   *Check
    *check 1
+   *check 2
 2. Implementasikan setiap line code kalo engga paham di simulator thinkercad / lainnya
 3. Skripsi yang bisa dibuat
 4. Hidup Sehat
